@@ -1,0 +1,215 @@
+{
+    "expenses":
+    {
+        "-NqQURSGxRtCMTybZO5V": {
+          "uid": "b5ac9c12",
+          "amount": "$34.64",
+          "category": "groceries",
+          "description": "volutpat sapien arcu sed augue",
+          "date": "10/9/2023"
+        },
+        "-NqQURSIiUyUniZ1UH5e": {
+          "uid": "759648e3",
+          "amount": "$32.25",
+          "category": "groceries",
+          "description": "donec semper sapien a libero nam dui proin leo odio",
+          "date": "2/20/2023"
+        },
+        "-NqQURSK0wxG8LwlmchW": {
+          "uid": "fea39dab",
+          "amount": "$40.71",
+          "category": "dining",
+          "description": "felis fusce posuere felis sed lacus morbi sem",
+          "date": "8/7/2023"
+        },
+        "-NqQURSLeRXv-kh9x_r-": {
+          "uid": "aa5fbbfd",
+          "amount": "$30.03",
+          "category": "groceries",
+          "description": "nunc viverra dapibus nulla suscipit ligula in lacus",
+          "date": "9/12/2023"
+        },
+        "-NqQURSM51WoHPHWtafw": {
+          "uid": "fc4f6b7c",
+          "amount": "$92.77",
+          "category": "groceries",
+          "description": "diam id ornare imperdiet",
+          "date": "1/18/2024"
+        },
+        "-NqQURSOVBGJmKaVN-Wo": {
+          "uid": "364432f3",
+          "amount": "$80.80",
+          "category": "groceries",
+          "description": "imperdiet nullam orci pede venenatis non sodales sed tincidunt eu",
+          "date": "10/18/2023"
+        },
+        "-NqQURSPW-oPvV9SN2ev": {
+          "uid": "d822c6c4",
+          "amount": "$30.03",
+          "category": "utilities",
+          "description": "nibh fusce lacus purus aliquet at feugiat",
+          "date": "2/4/2024"
+        },
+        "-NqQURSQeNL0m3DExxCm": {
+          "uid": "fb988dbe",
+          "amount": "$81.91",
+          "category": "dining",
+          "description": "cursus urna ut tellus",
+          "date": "10/23/2023"
+        },
+        "-NqQURSR9dZzoQvs_Iep": {
+          "uid": "7ac6d1a7",
+          "amount": "$84.01",
+          "category": "entertainment",
+          "description": "sapien cursus vestibulum proin eu mi nulla ac enim in",
+          "date": "9/23/2023"
+        },
+        "-NqQURSTnfnYt6ZkmtXa": {
+          "uid": "c32c9b3b",
+          "amount": "$79.09",
+          "category": "groceries",
+          "description": "cras pellentesque volutpat dui maecenas tristique est et",
+          "date": "2/23/2023"
+        },
+        "-NqQURSUaFznCBkhzEl_": {
+          "uid": "a4c267a0",
+          "amount": "$44.27",
+          "category": "dining",
+          "description": "nulla suscipit ligula in lacus",
+          "date": "2/12/2023"
+        },
+        "-NqQURSWibxYS3mAUUZt": {
+          "uid": "34dd8657",
+          "amount": "$26.72",
+          "category": "dining",
+          "description": "neque vestibulum eget",
+          "date": "2/6/2024"
+        },
+        "-NqQURSX2qhFiZQmBVKM": {
+          "uid": "990af172",
+          "amount": "$63.17",
+          "category": "entertainment",
+          "description": "dui vel nisl",
+          "date": "10/19/2023"
+        },
+        "-NqQURSZENGdXOyBX7MD": {
+          "uid": "38922c99",
+          "amount": "$98.18",
+          "category": "groceries",
+          "description": "sit amet erat nulla",
+          "date": "10/1/2023"
+        },
+        "-NqQURS_mNXtgKbwszyH": {
+          "uid": "1465ead3",
+          "amount": "$43.05",
+          "category": "utilities",
+          "description": "fusce posuere felis",
+          "date": "5/28/2023"
+        },
+        "-NqQURSaEBwTIYIOfKLQ": {
+          "uid": "e7883d1a",
+          "amount": "$32.32",
+          "category": "dining",
+          "description": "tempus sit amet sem fusce consequat nulla",
+          "date": "5/12/2023"
+        },
+        "-NqQURSc36UwMTiN5Yv1": {
+          "uid": "e969528b",
+          "amount": "$53.40",
+          "category": "utilities",
+          "description": "luctus cum sociis natoque penatibus et magnis dis parturient montes",
+          "date": "2/7/2024"
+        },
+        "-NqQURSdfNJBoeQ_ggpX": {
+          "uid": "31e48ac8",
+          "amount": "$79.05",
+          "category": "groceries",
+          "description": "suscipit nulla elit ac nulla sed vel enim",
+          "date": "2/5/2024"
+        },
+        "-NqQURSfKTHc2J4V3vtK": {
+          "uid": "e9826b93",
+          "amount": "$97.95",
+          "category": "groceries",
+          "description": "ac lobortis vel dapibus at",
+          "date": "6/27/2023"
+        },
+        "-NqQURSgUEAqIvgorFoJ": {
+          "uid": "40c34c2b",
+          "amount": "$68.03",
+          "category": "dining",
+          "description": "sed magna at nunc",
+          "date": "6/19/2023"
+        },
+        "-NqQURSh4Tp9qiRzQfnI": {
+          "uid": "3faf5fb8",
+          "amount": "$93.02",
+          "category": "dining",
+          "description": "ullamcorper purus sit amet nulla quisque arcu libero rutrum",
+          "date": "6/11/2023"
+        },
+        "-NqQURSjgZ-rNJhKWhDG": {
+          "uid": "e09955e1",
+          "amount": "$58.19",
+          "category": "utilities",
+          "description": "justo aliquam quis",
+          "date": "10/8/2023"
+        },
+        "-NqQURSkUDWFHRhEVX1z": {
+          "uid": "5b8d2ed1",
+          "amount": "$10.37",
+          "category": "groceries",
+          "description": "orci vehicula condimentum curabitur in libero ut massa volutpat convallis",
+          "date": "12/14/2023"
+        },
+        "-NqQURSlnCauIzvGs4L5": {
+          "uid": "eff4da55",
+          "amount": "$33.91",
+          "category": "utilities",
+          "description": "velit eu est congue elementum in",
+          "date": "6/26/2023"
+        },
+        "-NqQURSm_2-oJjkJqLbF": {
+          "uid": "288f3b8a",
+          "amount": "$94.92",
+          "category": "dining",
+          "description": "amet consectetuer adipiscing elit proin risus",
+          "date": "4/3/2023"
+        },
+        "-NqQURSn_HoDELf0_1Gd": {
+          "uid": "c6edcd5b",
+          "amount": "$37.97",
+          "category": "groceries",
+          "description": "at velit eu est congue elementum in hac habitasse platea",
+          "date": "8/16/2023"
+        },
+        "-NqQURSpSslM7CwvS4HT": {
+          "uid": "1d1083ad",
+          "amount": "$81.16",
+          "category": "utilities",
+          "description": "elit proin risus praesent lectus",
+          "date": "8/8/2023"
+        },
+        "-NqQURSqSFMt3k_YYQNn": {
+          "uid": "9c68c5ac",
+          "amount": "$59.72",
+          "category": "entertainment",
+          "description": "eu orci mauris lacinia sapien quis libero",
+          "date": "6/21/2023"
+        },
+        "-NqQURSr15rDi08HbIaU": {
+          "uid": "21f1f489",
+          "amount": "$27.46",
+          "category": "utilities",
+          "description": "sapien cursus vestibulum proin eu mi",
+          "date": "3/31/2023"
+        },
+        "-NqQURSsatEi-fXwLMr2": {
+          "uid": "642b5dac",
+          "amount": "$38.18",
+          "category": "groceries",
+          "description": "diam vitae quam",
+          "date": "2/7/2024"
+        }
+      }      
+}
